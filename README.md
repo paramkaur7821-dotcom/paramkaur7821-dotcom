@@ -18,3 +18,6 @@ Classic Tic Tac Toe game — Google AI Studio se banaya.
 ### [Telegram AI Bot](https://github.com/paramkaur7821-dotcom/telegram-ai-bot)
 Telegram ke liye AI-powered bot banaya.
 **Tech Stack:** JavaScript
+### [Dr-DentAI](https://github.com/paramkaur7821-dotcom/Dr-DentAI)
+Dental AI project — Replit pe bhi deployed hai.
+**Tech Stack:** TypeScript
