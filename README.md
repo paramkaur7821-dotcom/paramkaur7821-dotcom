@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Paramjit Kaur 👋
 
-<!--
-**paramkaur7821-dotcom/paramkaur7821-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer from Punjab, India. Learning and building new things step by step.
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning **Web Development**
+- 📍 Location: Punjab, India
+- 🌐 Portfolio: https://sgtbssp-school-smoky.vercel.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+
+### [Chatbhot App](https://github.com/paramkaur7821-dotcom/chatbhot-app)
+Ek chatbot application jo maine banayi hai.
+**Tech Stack:** (yaha likho konsi language use ki — jaise JavaScript, Python, etc.)
