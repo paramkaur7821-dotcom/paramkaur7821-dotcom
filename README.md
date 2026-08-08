@@ -14,3 +14,7 @@ Ek chatbot application jo maine banayi hai.
 ### [Tik Tak Toe](https://github.com/paramkaur7821-dotcom/tik-tak-toe)
 Classic Tic Tac Toe game — Google AI Studio se banaya.
 **Tech Stack:** TypeScript, HTML, CSS
+
+### [Telegram AI Bot](https://github.com/paramkaur7821-dotcom/telegram-ai-bot)
+Telegram ke liye AI-powered bot banaya.
+**Tech Stack:** JavaScript
